@@ -1,18 +1,13 @@
 
 
-W : Avancer
-S : Reculer
-A : Aller à gauche
-D : Aller à droite
-ESPACE : Sauter
 F1 : Prendre le telephone
-F2 : Afficher Inventaire
-F3 : Changer / Votre voix
+F2 : Afficher la Tablette
+F3 : Menu Animations
 F5 : Ouvrir / Fermer le menu personnel
 F6 : Ouvrir / Fermer le menu métier
 F7 : Ouvrir / Facture
 F9 : Ouvrir / Fermer le menu gang
-=  : Mods Driff
-U : Prendre / Ranger les cles ( véhicule )
+F11 : Ouvrire la Boutique Token
+U : Barrer - Debarrer le Vehicule
 B : Boucler / Détacher sa ceinture de securite ( dans un vehicule )
-TAB : Selectionner une arme
+TAB : Ouvrire L'inventaire
